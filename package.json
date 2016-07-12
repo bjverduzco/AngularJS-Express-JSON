@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-express-json",
+  "version": "1.0.0",
+  "description": "ALL RIGHT! Set up a *NEW* project! From the ground up. Bring in Angular, that's all we will need for our project today.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjverduzco/AngularJS-Express-JSON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjverduzco/AngularJS-Express-JSON/issues"
+  },
+  "homepage": "https://github.com/bjverduzco/AngularJS-Express-JSON#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
